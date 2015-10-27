@@ -15,3 +15,11 @@ I can add and commit files one by one, not all at once.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 New feature, risky changes, alternative or local version of the app.
+
+How do the diagrams help you visualize the branch structure?
+
+They show the commits of different branches with pseudographics.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging copes fine with the files having different changes, but does not work with the files which do have changes in the same lines.
